@@ -1,0 +1,51 @@
+,ItemID,LocationID,DateObtained,Price,Weight,OwnerID,CategoryID,CityID,Name
+97,98,I got this because it was so weird that they sell Disney shotglasses! Does Mickey Mouse do shots?,2021/04/02,25.99,2.5,2,7,60.0,Mickey Mouse Shotglass
+98,99,Does the Queen use this to stir her tea?,2020/01/05,50.0,4.0,2,7,38.0,Gold Spoon
+99,100,"The color is so intense, I love it!",1998/06/12,45.0,8.0,2,4,55.0,Fancy Scarf
+100,101,"I found it on the beach, it's so nice and round!",2001/02/15,0.0,4.0,2,6,7.0,Smooth Rock
+101,102,"Yeah, sure, maybe it's basic.",2005/12/17,14.99,2.0,2,7,66.0,Eiffel Tower Shotglass
+102,103,Someone made this by hand! It's so nice and it smells like leather.,1999/11/23,35.0,20.0,2,3,77.0,Hand-bound sketchbook
+103,104,"It's heavy, but it's cool to drink out of!",2013/10/30,17.99,5.0,2,7,20.0,Stone Shotglass
+104,105,Why is it shaped like that? It looks so strange but so cool!,2012/05/24,12.99,6.0,2,7,28.0,Weird spoon
+105,106,It really is a nice skyline,2015/07/15,2.99,1.0,2,9,39.0,City postcard
+106,107,"It fits perfectly in the palm of my hand, and the stripes are so cute!",2021/01/08,0.0,1.5,2,8,48.0,Red scallop shell
+107,108,"I think the top of the drum is made from papayrus, it sounds really awesome!",2012/06/28,60.0,34.0,2,8,13.0,Egyptian Drum
+108,109,These drawings were handmade! The ink strokes are so beautiful,2007/12/30,29.99,18.0,2,3,9.0,Ink Artbook
+109,110,Don't judge me! I really like this one. The characters are cute AND deep.,2010/01/05,15.99,21.0,2,3,81.0,Manga
+110,111,"It's so dark, and so smooth!",1995/11/04,0.0,5.0,2,6,73.0,Black Rock
+111,112,The view is so unbelievable... the sky really looked like that in person!,2007/08/01,1.0,0.75,2,9,6.0,Sunset Postcard
+112,113,"It's so beautiful, and the patterns were sewn by hand!",2014/06/14,120.0,86.0,2,4,54.0,Sari
+113,114,They're so tall but so beautiful! I want to live in a city like this,2011/04/05,0.8,1.0,2,9,33.0,Petronas Towers Postcard
+114,115,"My cousin bought this for me when I visited because she wouldn't stop roasting me for being a tourist.... it's ironic, I promise.",2019/01/18,12.99,3.0,2,7,37.0,Union Jack Shotglass
+115,116,"The inside of the shell is iridescent, like a pearl. I wonder what this shell comes from.",2018/03/25,0.0,2.0,2,8,68.0,Shiny Shell
+116,117,Who doesn't love a kangaroo? Aww....,2017/02/23,1.2,1.0,2,9,5.0,Kangaroo Postcard
+117,118,They say they made this with the same methods that Ancient Romans used. It's that why it's so lopsided?,2001/06/06,22.99,3.0,2,7,72.0,Ancient Roman Spoon
+118,119,It's a little flute made of wood! The sound is deeper than I was expecting.,2002/10/19,45.5,15.0,2,8,86.0,Zuffolo
+119,120,"I never wear it because I'm too afraid of damaging the beadwork, but it looks so elegant and expensive.",2003/09/12,60.0,5.0,2,4,58.0,Blouse
+120,121,Sometimes I fill this up with maple syrup to pour on my pancakes.... is that a disrespectful stereotype?,2004/10/27,9.5,4.0,2,7,83.0,Maple Leaf Shotglass
+121,122,I love books with nature photographs... I didn't know moose (meese? mooses?) were so BIG!,2008/05/15,17.99,19.0,2,3,52.0,Moose Photographs
+122,123,I'm going to learn how to make borsct! It's gonna happen!,2005/12/13,15.6,17.0,2,3,53.0,Cookbook
+123,124,These are honestly the best aviators I've ever worn. I'm gonna wear them until they break!,2021/01/18,14.99,6.0,2,4,23.0,Sunglasses
+124,125,"It was so beautiful to see the bridge all lit up for Christmas, I'll never forget it!",2013/12/25,1.25,1.0,2,9,11.0,Story Bridge
+125,126,This was such an incredible read.,1999/12/31,14.69,22.0,2,3,31.0,Long Walk to Freedom
+126,127,It's so soft and light. It really helped to keep me cool while I was visiting.,2011/06/16,35.99,7.0,2,4,17.0,Headscarf
+127,128,Who knew they made special spoons for eating olives? Not me!,2006/07/08,22.25,6.0,2,7,3.0,Olive Spoon
+128,129,"Picture of the famous Patras Carnival, one of the biggest in all of Europe!",2016/04/15,0.99,1.0,2,9,67.0,Carnival Postcard
+129,130,An overview of the designs used in the old structures and buildings in Paris.,2015/04/28,49.99,20.0,2,3,66.0,Architecture Book
+130,131,A picture of the beautiful beach at Cannes!,2014/11/11,1.99,1.0,2,9,15.0,Beach Postcard
+131,132,"Has ""I <3 Chicago"" on the front.",2000/01/01,12.99,5.0,2,4,18.0,Tourist Shirt
+132,133,Very helpful for my algebra homework!,1998/08/19,99.99,8.0,2,8,21.0,TI-89
+133,134,"Wow, it's made from crystalized lava!",2014/08/13,18.99,12.0,2,6,1.0,Obsidian
+134,135,Now I have something to wear when my German inlaws invite me to Oktoberfest.,1997/02/26,69.99,10.0,2,4,25.0,Dirndl
+135,136,A classic clamshell.,2000/04/19,0.0,3.5,2,8,41.0,Clamshell
+136,137,A book about the life of one of Brazil's most iconic pop artists of the 20th century.,2005/09/01,16.49,9.0,2,3,71.0,Jorge Ben Jor Autobiography
+137,138,He would be so proud.,2021/09/21,12.29,2.0,2,7,71.0,Cristo Redentor Shotglass
+138,139,"Authentic and cozy, just what I always wanted",2016/10/10,42.0,24.0,2,4,12.0,Poncho
+139,140,A picture of a neighborhood with shikumen architecture.,2020/09/10,2.5,1.0,2,9,74.0,Shikumen Postcard
+140,141,"It was really expensive and I don't know how to play it, but it's super cool.",2001/01/25,1640.0,36.0,2,8,34.0,Shamisen
+141,142,For portioning spices like sambal,2005/10/17,6.0,3.0,2,7,76.0,Small Wooden Spoon
+142,143,I asked the bookstore clerk what they recommended and they gave me this.,2004/11/22,1.34,5.0,2,3,47.0,Like Water for Chocolate
+143,144,I think the picture it too heavily photoshopped.,2018/07/02,2.99,1.0,2,9,14.0,Beach Postcard
+144,145,Some impressionist art on a postcard from an Minneapolis artist.,2003/09/06,5.99,1.0,2,9,51.0,Minneapolis Institute of Art Postcard
+145,146,Bought from an antique shop. Good for bashing rats,2005/11/15,17.99,12.0,2,7,38.0,Old Pewter Spoon
+146,147,"I found one half of a large shell, walked a few meters, then found the other half and now keep them sitting next to each other",2001/03/30,0.0,16.0,2,8,61.0,Chiton Shell

@@ -1,0 +1,21 @@
+,ItemID,LocationID,DateObtained,Price,Weight,OwnerID,CategoryID,CityID,Name
+20,21,"Very good dirt. Solid, reliable.",2007/03/21,0.0,4.0,5,6,60.0,Central Park-dirt
+21,22,Dry and depressing,2009/08/01,0.0,4.0,5,6,39.0,Hollywood Bowl-dirt
+22,23,Tastes rich in Oxygen,2010/03/11,0.0,4.0,5,6,18.0,Burham Park-dirt
+23,24,Unimagineable feeling between the toes,2015/12/25,0.0,4.0,5,6,14.0,Playa Tortugas-sand
+24,25,High in phosphates,2018/04/22,0.0,4.0,5,6,73.0,Bukhansan National Park-dirt
+25,26,"There's something fishy in here, got sick after tasting it…",2019/09/28,0.0,4.0,5,6,89.0,Wuhan Institute of Virology-dirt
+26,27,Very soft,2020/06/12,0.0,4.0,5,6,78.0,TEL AVIV BEACH-sand
+27,28,Smallest dirt on earth. Pathetic,2020/08/20,0.0,4.0,5,6,40.0,Bourscheid Neige Luges-dirt
+28,29,It's coarse. Gets everywhere. I don't like it,2020/09/20,0.0,4.0,5,6,16.0,Lagoon Beach-sand
+29,30,Tastes like they have never won a war,2021/02/20,0.0,4.0,5,6,66.0,Champ de Mars-dirt
+30,31,"Very soft, great color",2021/07/20,0.0,4.0,5,6,69.0,Playa del Carmen-sand
+31,32,"Medium coarseness, tons of shells",2021/12/20,0.0,4.0,5,6,69.0,Playa Punta Esmeralda-sand
+32,33,Looks very rich. I got a worm in here!,2021/02/20,0.0,4.0,5,6,38.0,Hyde Park-dirt
+33,34,BASIC,2021/01/20,0.0,4.0,5,6,61.0,National Park-dirt
+34,35,Neat.,2021/03/20,0.0,4.0,5,6,84.0,Promenade des Anglais-sand
+35,36,Lots of critters and life. Kinda stinky,2017/08/20,0.0,4.0,5,6,19.0,Hikkaduwa Beach-sand
+36,37,Very Nice,2014/01/20,0.0,4.0,5,6,56.0,Al Bustan Beach-sand
+37,38,Exotic,2000/06/20,0.0,4.0,5,6,2.0,Palm Beach-sand
+38,39,Better dirt than expected,2004/09/20,0.0,4.0,5,6,46.0,Parco delle fonti-dirt
+39,40,"Hints of nostalgia from the great days of the USSR; however, a bit stale",2018/07/20,0.0,4.0,5,6,42.0,Park Lenina-dirt
